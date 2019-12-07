@@ -1,0 +1,15 @@
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\FileUpload.exe
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\FileUpload.deps.json
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\FileUpload.runtimeconfig.json
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\FileUpload.runtimeconfig.dev.json
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\FileUpload.dll
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\FileUpload.pdb
+C:\Projekte\Visual Studio\FileUpload\FileUpload\obj\Debug\netcoreapp3.0\FileUpload.csprojAssemblyReference.cache
+C:\Projekte\Visual Studio\FileUpload\FileUpload\obj\Debug\netcoreapp3.0\FileUpload.AssemblyInfoInputs.cache
+C:\Projekte\Visual Studio\FileUpload\FileUpload\obj\Debug\netcoreapp3.0\FileUpload.AssemblyInfo.cs
+C:\Projekte\Visual Studio\FileUpload\FileUpload\obj\Debug\netcoreapp3.0\FileUpload.dll
+C:\Projekte\Visual Studio\FileUpload\FileUpload\obj\Debug\netcoreapp3.0\FileUpload.pdb
+C:\Projekte\Visual Studio\FileUpload\FileUpload\obj\Debug\netcoreapp3.0\FileUpload.csproj.CopyComplete
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Projekte\Visual Studio\FileUpload\FileUpload\bin\Debug\netcoreapp3.0\Microsoft.Net.Http.Headers.dll
